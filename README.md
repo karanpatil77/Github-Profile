@@ -14,22 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-14551
-Fork on GitHub
-3885
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanpatil77&label=Profile%20views&color=0e75b6&style=flat" alt="karanpatil77" /> </p>
