@@ -1,4 +1,4 @@
-<img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif" alt="Data Science" width="2880" height="400">
+<img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif" alt="Data Science" width="2880" height="450">
 
 <h1 align="center">Hi 👋, I'm Karan Patil</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
