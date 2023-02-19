@@ -1,13 +1,8 @@
-<img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif" alt="Data Science" width="2880" height="600">
+<img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif" alt="Data Science" width="2880" height="500">
 
 <h1 align="center">Hi 👋, I'm Karan Patil</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanpatil77&label=Profile%20views&color=0e75b6&style=flat" alt="karanpatil77" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanpatil77" alt="karanpatil77" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/hdfghth" target="blank"><img src="https://img.shields.io/twitter/follow/hdfghth?logo=twitter&style=for-the-badge" alt="hdfghth" /></a> </p>
 
 - 🔭 I’m currently working on [kvujk](uky)
 
@@ -51,3 +46,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanpatil77&show_icons=true&locale=en" alt="karanpatil77" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanpatil77&" alt="karanpatil77" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanpatil77&show_icons=true&locale=en&layout=compact" alt="karanpatil77" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanpatil77" alt="karanpatil77" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/hdfghth" target="blank"><img src="https://img.shields.io/twitter/follow/hdfghth?logo=twitter&style=for-the-badge" alt="hdfghth" /></a> </p>
