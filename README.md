@@ -4,25 +4,25 @@
 <h3 align="center">Aspiring Data Analyst</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanpatil77&label=Profile%20views&color=0e75b6&style=flat" alt="karanpatil77" /> </p>
 
-- 🔭 I’m currently working on [kvujk](uky)
+- 🔭 I’m currently working on []()
 
-- 🌱 I’m currently learning **kuk**
+- 🌱 I’m currently learning ** **
 
-- 👯 I’m looking to collaborate on [tkuk](ukty)
+- 👯 I’m looking to collaborate on []()
 
-- 🤝😄🤔 I’m looking for help with [tkuk](gkk)
+- 🤝😄🤔 I’m looking for help with []()
 
-- 👨‍💻 All of my projects are available at [fxjh](fxjh)
+- 👨‍💻 All of my projects are available at []()
 
-- 📝 I regularly write articles on [nxfrh](nxfrh)
+- 📝 I regularly write articles on []()
 
-- 💬 Ask me about **ukuk**
+- 💬 Ask me about ** **
 
 - 📫 How to reach me **kpatil3595@gmail.com**
 
-- 📄 Know about my experiences [hfhx](hfhx)
+- 📄 Know about my experiences [hfhx]()
 
-- ⚡ Fun fact **hhrth**
+- ⚡ Fun fact ** **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
