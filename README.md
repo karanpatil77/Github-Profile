@@ -1,7 +1,6 @@
-<img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif" alt="Data Science" width="2880" height="450">
-
 <h1 align="center">Hi 👋, I'm Karan Patil</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
+<img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif" alt="Data Science" width="2880" height="450">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanpatil77&label=Profile%20views&color=0e75b6&style=flat" alt="karanpatil77" /> </p>
 
 - 🔭 I’m currently working on []()
