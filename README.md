@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **kpatil3595@gmail.com**
 
-- 📄 Know about my experiences [hfhx]()
+- 📄 Know about my experiences []()
 
 - ⚡ Fun fact ** **
 
