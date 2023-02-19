@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact ** **
 
-<p align="left"> <a href="https://twitter.com/hdfghth" target="blank"><img src="https://img.shields.io/twitter/follow/hdfghth?logo=twitter&style=for-the-badge" alt="hdfghth" /></a> 
+<p align="left"> <a href="https://twitter.com/karanpatil77" target="blank"><img src="https://img.shields.io/twitter/follow/hdfghth?logo=twitter&style=for-the-badge" alt=" " /></a> 
 </p>
 
 <h3 align="left">Connect with me:</h3>
