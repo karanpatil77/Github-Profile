@@ -4,44 +4,20 @@
 <h2 align="center">"Data is the new fuel!"</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanpatil77&label=Profile%20views&color=0e75b6&style=flat" alt="karanpatil77" /> </p>
 <img src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif" alt="Data Science" width="400" height="400" align="right">
-- 🔭 I’m currently working on []()
-
-- 🌱 I’m currently learning ** **
-
-- 👯 I’m looking to collaborate on []()
-
-- 🤝😄🤔 I’m looking for help with []()
-
-- 👨‍💻 All of my projects are available at []()
-
-- 📝 I regularly write articles on []()
-
-- 💬 Ask me about ** **
 
 - 📫 How to reach me **kpatil3595@gmail.com**
 
-- 📄 Know about my experiences []()
-
-- ⚡ Fun fact ** **
-
+- 📄 Know about my [experiences](https://www.canva.com/design/DAFaMl4DrYE/mZ-Bi16bmFOHHDrdMvMUCA/view?utm_content=DAFaMl4DrYE&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://twitter.com/hdfghth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hdfghth" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karanpatil77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karanpatil77" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hteh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hteh" height="30" width="40" /></a>
-<a href="https://kaggle.com/hdhteh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hdhteh" height="30" width="40" /></a>
-<a href="https://fb.com/gsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gsg" height="30" width="40" /></a>
+<a href="https://twitter.com/karan_patil77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hdfghth" height="30" width="40" /></a>
+<a href="[https://fb.com/gsg](https://www.facebook.com/karanpatil77777/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gsg" height="30" width="40" /></a>
 <a href="https://instagram.com/karan_patil77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan_patil77" height="30" width="40" /></a>
-<a href="https://medium.com/thde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="thde" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dhtgeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dhtgeh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/hdbn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hdbn" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dhtgntde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhtgntde" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gfdnh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gfdnh" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/gdnh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="gdnh" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
