@@ -5,9 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanpatil77&label=Profile%20views&color=0e75b6&style=flat" alt="karanpatil77" /> </p>
 <img src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif" alt="Data Science" width="400" height="400" align="right">
 
-- 📫 How to reach me **kpatil3595@gmail.com**
-
+- 🌱 I’m currently learning Data Science
+- 💬 Ask me about Python, MySQL, Statistics, Numpy, Pandas, Music etc
 - 📄 Know about my [experiences](https://www.canva.com/design/DAFaMl4DrYE/mZ-Bi16bmFOHHDrdMvMUCA/view?utm_content=DAFaMl4DrYE&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+- 📫 How to reach me **kpatil3595@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
