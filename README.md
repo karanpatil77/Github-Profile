@@ -49,13 +49,15 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanpatil77&show_icons=true&locale=en&layout=compact" alt="karanpatil77" /></p>
+<p><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=karanpatil77&show_icons=true&locale=en&layout=compact"alt="karanpatil77"/></p>
+
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanpatil77&show_icons=true&locale=en" alt="karanpatil77" />
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanpatil77&" alt="karanpatil77" />
 </p>
 
 <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanpatil77" alt="karanpatil77" /></a> 
-</p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanpatil77" alt="karanpatil77"/></a> </p>
+--!>
 
