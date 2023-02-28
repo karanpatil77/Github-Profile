@@ -2,8 +2,8 @@
 <h2 align="center">Aspiring Data Analyst</h2>
 <img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif" alt="Data Science" width="1500" height="400">
 <h2 align="center">"Data is the new fuel!"</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karanpatil77&label=Profile%20views&color=0e75b6&style=flat" alt="karanpatil77" /> </p>
 <img src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif" alt="Data Science" width="400" height="400" align="right">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karanpatil77&label=Profile%20views&color=0e75b6&style=flat" alt="karanpatil77" /> </p>
 
 - 🌱 I’m currently learning Data Science
 - 📄 Know about my [experiences](https://www.canva.com/design/DAFaMl4DrYE/mZ-Bi16bmFOHHDrdMvMUCA/view?utm_content=DAFaMl4DrYE&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
