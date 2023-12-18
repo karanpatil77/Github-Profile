@@ -8,8 +8,8 @@
 
 - 🌱 I’m currently learning Data Science
 - 📄 Know about my [experiences](https://www.canva.com/design/DAFaMl4DrYE/mZ-Bi16bmFOHHDrdMvMUCA/view?utm_content=DAFaMl4DrYE&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
-- 📫 How to reach me **kpatil3595@gmail.com**
-
+- 📫 How to reach me 
+<a href="mailto:johndoe@fakeemail.com">kpatil3595@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">    
