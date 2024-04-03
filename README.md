@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanpatil77&label=Profile%20views&color=0e75b6&style=flat" alt="karanpatil77" /> </p>
 
 - 🌱 I’m currently learning Data Science
-- 📄 Know about my [experiences](https://www.canva.com/design/DAFaMl4DrYE/mZ-Bi16bmFOHHDrdMvMUCA/view?utm_content=DAFaMl4DrYE&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1E91k1RY9kvzx52rEH3LcATXFFk4glABN/view?usp=drive_link)
 - 📫 How to reach me 
 <a href="mailto:johndoe@fakeemail.com">kpatil3595@gmail.com</a>
 
