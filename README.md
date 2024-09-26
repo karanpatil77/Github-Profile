@@ -24,6 +24,8 @@
     
 <a href="https://instagram.com/karan_patil77" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan_patil77" height="30" width="40" /></a>
+<a href="https://wa.me/919768654897" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="karan_patil77" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
